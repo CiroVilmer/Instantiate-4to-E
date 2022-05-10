@@ -529,8 +529,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1137861067}
-        m_MethodName: TripleInstantiate
+      - m_Target: {fileID: 92942347}
+        m_MethodName: showDoble
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -953,13 +953,13 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1572041106}
   m_TextComponent: {fileID: 777745631}
   m_Placeholder: {fileID: 1107295943}
-  m_ContentType: 0
+  m_ContentType: 2
   m_InputType: 0
   m_AsteriskChar: 42
-  m_KeyboardType: 0
+  m_KeyboardType: 4
   m_LineType: 0
   m_HideMobileInput: 0
-  m_CharacterValidation: 0
+  m_CharacterValidation: 1
   m_CharacterLimit: 0
   m_OnEndEdit:
     m_PersistentCalls:
